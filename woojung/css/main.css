@@ -1,0 +1,59 @@
+#logo{
+  width:150px;
+}
+.container{
+  padding-top:20px;
+}
+#control{
+  margin-bottom: 40px;
+}
+h1{
+  font-size : 40px !important;
+}
+#name{
+  font-size: 50px;
+}
+article{
+  text-align: center;
+}
+table thead tr td{
+  height : auto;
+  width : auto;
+}
+table tbody tr td{
+  height : auto;
+  width : auto;
+}
+#information{
+  font-size: 13px;
+  padding-right : 100px !important;
+}
+#language{
+  padding-right: 300px;
+}
+#language image{
+  height : 97px;
+  width: 97px;
+}
+#timetabe tr{
+  width:130px;
+  height:40px;
+  text-align: center;
+}
+#timetable td{
+  width:130px;
+  height:40px;
+  text-align: center;
+}
+#timetable th{
+  height : 40px;
+  width:60px;
+  text-align: center;
+}
+#photo{
+  padding-right: 100px;
+}
+#photo img{
+  height : 200px;
+  width : 200px;
+}
